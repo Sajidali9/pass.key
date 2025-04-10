@@ -1,1 +1,1 @@
-# pass.key
+#passs-strength-checker
